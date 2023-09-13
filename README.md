@@ -23,4 +23,12 @@ Este repositório contém uma lista das minhas resoluções para cada desafio do
 
 **Link:** [Perfume Gabrielle](https://leosousa23.github.io/FrontendMentor-Challenges/product-preview/index.html)
 
+### Projeto 3: Order Summary 
+
+**Descrição:** No meu terceiro projeto, criei um sumário de assinatura de uma plataforma de poadcast, audiolivro e poadcast.
+
+**Tecnologias:** Desenvolvi a página utilizando a abordagem "mobile first", garantindo uma experiência fluida tanto em dispositivos móveis quanto em desktops.
+
+**Link:** [Perfume Gabrielle](https://leosousa23.github.io/FrontendMentor-Challenges/order-summar/index.html)
+
 Obrigado por visitar meus projetos! 👏
