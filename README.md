@@ -29,6 +29,6 @@ Este repositório contém uma lista das minhas resoluções para cada desafio do
 
 **Tecnologias:** Desenvolvi a página utilizando a abordagem "mobile first", garantindo uma experiência fluida tanto em dispositivos móveis quanto em desktops.
 
-**Link:** [Perfume Gabrielle](https://leosousa23.github.io/FrontendMentor-Challenges/order-summar/index.html)
+**Link:** [Order Summary](https://leosousa23.github.io/FrontendMentor-Challenges/order-summar/index.html)
 
 Obrigado por visitar meus projetos! 👏
